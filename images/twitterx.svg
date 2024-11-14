@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 616 616" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="twitterx" transform="matrix(1,0,0,1,639.239,-234.78)">
+        <rect x="-639.239" y="234.78" width="615.458" height="615.458" style="fill:none;"/>
+        <g id="square-x-twitter--1-.svg" serif:id="square-x-twitter (1).svg" transform="matrix(1.20207,0,0,1.20207,-331.51,542.509)">
+            <g transform="matrix(1,0,0,1,-224,-256)">
+                <path d="M64,32C28.7,32 0,60.7 0,96L0,416C0,451.3 28.7,480 64,480L384,480C419.3,480 448,451.3 448,416L448,96C448,60.7 419.3,32 384,32L64,32ZM361.1,116L257.3,234.6L379.4,396L283.8,396L209,298.1L123.3,396L75.8,396L186.8,269.1L69.7,116L167.7,116L235.4,205.5L313.6,116L361.1,116ZM323.3,367.6L153.4,142.9L125.1,142.9L296.9,367.6L323.3,367.6Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>
